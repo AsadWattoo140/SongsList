@@ -90,7 +90,7 @@
   "TIME_DELAY_INTERRUPT": 0.5,
   "DELAY_TIME_FOR_SYNC": 0.1,
   "FILE_LOCAL_CONFIG_SONGDATA": "SongData",
-  "ConfigSongData_Link": "https://drive.google.com/uc?export=download&id=1T3cwpKxO2oevFKVWcko1oLM_axzxhfU6",
+  "ConfigSongData_Link": "https://github.com/AsadWattoo140/SongsList/blob/main/SongData.txt",
   "ConfigUserLevel_Link": "https://raw.githubusercontent.com/miodevs/cf/master/cf/levelup.txt",
   "localizationURL": "https://raw.githubusercontent.com/miodevs/cf/master/cf/localization.txt",
   "ConfigQuest_Link": "https://raw.githubusercontent.com/miodevs/cf/master/cf/dailyquest.txt",
